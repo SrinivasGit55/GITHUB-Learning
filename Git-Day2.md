@@ -209,5 +209,3 @@ Advanced options
 
 
 ---
-
-I will add this as `Git-Day2-Professional.md` in your repository `SrinivasGit55/GITHUB-Learning` with the commit message: "Add Git Day2 professional notes (proofread & corrected)". Proceeding to create the file now.
