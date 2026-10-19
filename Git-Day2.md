@@ -1,4 +1,4 @@
-# Git & GitHub - Day 2 Professional Notes
+# Git & GitHub - Day 2 Notes
 
 Topics: Git config, `git show`, branching strategy, push/pull, and professional best practices.
 
